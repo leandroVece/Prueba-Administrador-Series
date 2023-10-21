@@ -1,0 +1,17 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar archivos de compilación y ejecutables
+bin/
+obj/
+*.exe
+*.dll
+
+# Ignorar archivos de usuario específicos
+App.config.user
+*.suo
